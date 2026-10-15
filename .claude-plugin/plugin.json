@@ -1,0 +1,10 @@
+{
+  "name": "macos-ocr",
+  "version": "1.0.0",
+  "description": "Extract text from images and scanned PDFs on macOS: when to use a vision-language model versus an OCR engine, Apple Vision via a 24-line Swift helper, why embossed cards defeat bitonal scans, and how to extract sensitive values without exposing them.",
+  "author": { "name": "John Randall", "url": "https://github.com/johntrandall" },
+  "homepage": "https://github.com/johntrandall/claude-plugin-macos-ocr",
+  "repository": "https://github.com/johntrandall/claude-plugin-macos-ocr",
+  "license": "MIT",
+  "keywords": ["ocr", "macos", "vision", "swift", "tesseract", "pdf", "scanning"]
+}
